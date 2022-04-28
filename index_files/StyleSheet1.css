@@ -1,0 +1,47 @@
+﻿.ESTILO {
+    font-family:Metropolis-Medium;
+    color:#80C6DB;
+    font-size:200%;
+}
+.HEAD {
+    font-family: Metropolis-Medium ;
+    color: #000000;
+    font-size: 125%;
+
+}
+@font-face {
+    font-family: 'Metropolis-Medium';
+    src: url('Metropolis-Medium.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Trexos Regular (1)';
+    src: url('Trexos Regular (1).ttf') format('truetype');
+}
+
+.ESTILO1 {
+    font-family: 'Trexos Regular (1)';
+    color: #80C6DB;
+    font-size: 500%;
+}
+.BODY {
+  background-image: url('../Imagenes/FONDO.png');
+}
+.BODY2 {
+    background-image: url('../Imagenes/CONTAC.png');
+}
+
+.ESTILO3 {
+    font-family: Metropolis-Medium;
+    color:white;
+    font-size: 200%;
+
+}
+.ESTILO4 {
+    font-family: 'Trexos Regular (1)';
+    color: white;
+    font-size: 500%;
+}
+.BODY3 {
+    background-image: url('../Imagenes/FONDO3.png');
+}
+ 
